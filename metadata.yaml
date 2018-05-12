@@ -1,0 +1,35 @@
+_repo: Trading_30149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warner, Susan
+    aliases:
+    - Warner, Susan Bogert
+    - Wetherell, Elizabeth
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '4744'
+    url: http://www.gutenberg.org/2009/agents/4744
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
+description: ''
+gutenberg_issued: '2009-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Trading
+url: http://www.gutenberg.org/ebooks/30149
